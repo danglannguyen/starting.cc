@@ -1,0 +1,18 @@
+Job Title: Senior Process Improvement Analyst (SYNTHETIC SAMPLE)
+Company: Example Widgets Ltd (fictional)
+
+Responsibilities
+- Lead Lean Six Sigma projects to reduce waste in manufacturing processes.
+- Build dashboards in Power BI and present findings to senior stakeholders.
+- Map current-state processes and design improved future-state workflows.
+
+Required skills
+- Lean Six Sigma Green Belt (LSS)
+- Process mapping
+- SQL
+- Stakeholder management
+
+Nice to have
+- Python
+- Power BI
+- Project management (PMP or PRINCE2)

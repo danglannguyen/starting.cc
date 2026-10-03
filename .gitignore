@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Built launcher (rebuild with .\launcher\build.ps1)
+ats.exe
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# Personal Claude Code settings
+.claude/settings.local.json
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

@@ -1,0 +1,7 @@
+# Tool settings only. Dependencies are listed in requirements.txt.
+
+[tool.pytest.ini_options]
+# Lets tests run "import ats" and "from tests.helpers import ..." when you
+# type plain `pytest` from the project folder.
+pythonpath = ["."]
+testpaths = ["tests"]

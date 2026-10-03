@@ -1,0 +1,19 @@
+# Streamlit settings for this project.
+
+[server]
+# Only accept connections from this computer. Without this, Streamlit listens
+# on the whole network, so anyone on the same Wi-Fi could open the app and
+# use your Anthropic API key.
+address = "localhost"
+# Largest upload accepted, in MB (default 200). A CV or job description is
+# well under 1 MB; a low limit keeps parsing fast and memory use small.
+maxUploadSize = 10
+
+[client]
+# If something unexpected breaks, show only a generic message in the browser.
+# Full error details go to the PowerShell window running the app instead.
+showErrorDetails = "none"
+
+[browser]
+# Don't send anonymous usage statistics about the app framework to Streamlit.
+gatherUsageStats = false
